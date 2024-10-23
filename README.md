@@ -94,6 +94,8 @@ def availableShips(passengerCount):
         url = data["next"]
     return ships
 
+```
+
 ### Example Usage:
 ```sh
 # Get a list of ships that can hold at least 50 passengers
