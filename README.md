@@ -9,7 +9,6 @@ This repository contains the code and resources for a Api Intranet Task 0, web s
 - [Data Scraping Process](#data-scraping-process)
   - [Task 1: Scraping ScrapethisSite](#task-1-scraping-scrapethissite)
   - [Task 2: Scraping Amazon Product Categories](#task-2-scraping-amazon-product-categories)
-- [How to Run the Project](#how-to-run-the-project)
 
 ---
 
