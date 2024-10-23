@@ -94,8 +94,8 @@ def availableShips(passengerCount):
         url = data["next"]
     return ships
 
-Example Usage:
-```
+### Example Usage:
+```sh
 # Get a list of ships that can hold at least 50 passengers
 available_ships = availableShips(50)
 print(available_ships)
