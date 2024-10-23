@@ -54,8 +54,7 @@ The repository is organized as follows:
     │   └── ...  
     ├── README.md
     ├── scrape1.csv  
-    ├── web_scraping.ipynb
-    └── ...
+    └── web_scraping.ipynb
 
 ---
 
