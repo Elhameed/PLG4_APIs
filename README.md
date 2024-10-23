@@ -124,8 +124,6 @@ For the second task, we scrape product images and labels from Amazon in five dif
 - **Methodology:** 
   - We make requests to each Amazon product category page.
   - For each category, the first product image and label are saved locally in the `images/` directory.
-  - **Note:** Amazon's HTML structure may change, so this is a basic demonstration using `BeautifulSoup`.
-
 ---
 
 
