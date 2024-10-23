@@ -39,17 +39,13 @@ This project focuses on:
 
 The repository is organized as follows:
 
-📁 PLG4_APIs/
-├── 📁 Intranet_Task-0/                
-│   ├── 0-main.py 
-│   ├── 0-passengers.py  
-├── 📁 images/                 
-│   ├── consoles_1.jpg    
-│   ├── handbags_1.jpg     
-│   ├── keyboards_1.jpg    
-│   ├── printers_1.jpg  
-│   ├── wigs_1.jpg  
-├── README.md 
-├── scrape1.csv  
-├── web_scraping.ipynb
-
+PLG4_APIs/ ├── Intranet_Task-0/
+│ ├── 0-main.py │ ├── 0-passengers.py
+├── images/
+│ ├── consoles_1.jpg
+│ ├── handbags_1.jpg
+│ ├── keyboards_1.jpg
+│ ├── printers_1.jpg
+│ ├── wigs_1.jpg
+├── README.md ├── scrape1.csv
+└── web_scraping.ipynb
